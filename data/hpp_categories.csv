@@ -1,0 +1,5 @@
+category_id,category_name,sort_order,notes
+MECH,Mechanical Coverage,1,Mechanical repair protection products
+MAINT,Maintenance,2,Factory-compliant maintenance retention products
+DAMAGE,Damage Care,3,Protection against damage/wear items
+LOSS,Loss & Theft,4,Protection for loss/theft and financial gaps
