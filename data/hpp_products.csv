@@ -1,5 +1,5 @@
 product_id,category_id,display_name,short_label,fni_bucket,counts_for_penetration,term_max_years,miles_max,key_limits,eligibility_notes,source_notes
-VSC,MECH,"Vehicle Service Contract (VSC)",VSC,VSC,YES,10,120000,,"Four levels available; Platinum covers 1,500+ parts; includes Original Lessee/Owner option for existing Hyundai owners/lessees at lease maturity","Platinum: 1,500+ parts; up to 10/120"
+VSC,MECH,"Vehicle Service Contract (VSC)",VSC,VSC,YES,10,120000,,"Four levels available; Platinum covers 1,500+ parts; includes Original Lessee/Owner option for existing Hyundai owners/lessees at lease maturity","Platinum: 1,500 parts; up to 10/120"
 CPOW,MECH,"Certified Pre-Owned Wrap (CPOW)",CPO Wrap,VSC,YES,10,120000,,"Enhances Hyundai factory limited warranty on CPO vehicles with added mechanical repair/parts/labor protection","Up to 10/120 for CPO Wrap"
 TPP,MECH,"Term Protection Plus",TPP,AFTERMARKET,YES,,,,"Covers everyday wear-related repairs (e.g., wheel alignments, battery replacement, brake pads, etc.) in addition to powertrain warranty","Wear items listed in your text; no term/miles specified"
 MW_MY25_PRIOR,MAINT,"Maintenance Wrap (MY25 and Prior)",Maint Wrap,MAINTENANCE,NO,,,,"Built to enhance HCM and support maintenance during HCM period; also provides a solution after HCM period ends","MY25 and prior only"
