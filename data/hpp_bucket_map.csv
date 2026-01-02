@@ -1,0 +1,19 @@
+normalized_label,fni_bucket,notes
+extended warr,VSC,Maps store rollup to VSC bucket
+vehicle service contract,VSC,Maps to VSC bucket
+cpo wrap,VSC,Maps to VSC bucket
+gap,GAP,Maps to GAP bucket
+after market,AFTERMARKET,Maps to Aftermarket bucket
+aftermarket,AFTERMARKET,Maps to Aftermarket bucket
+appearance,AFTERMARKET,Appearance Protection
+tire and wheel,AFTERMARKET,Tire & Wheel Protection
+tire & wheel,AFTERMARKET,Tire & Wheel Protection
+dent and ding,AFTERMARKET,Dent & Ding Protection
+windshield repair,AFTERMARKET,Windshield Repair Protection (bundled product)
+theft protection,AFTERMARKET,Theft Protection
+key replacement,AFTERMARKET,Key Replacement Protection
+pre-paid maintenance,MAINTENANCE,PPM
+ppm,MAINTENANCE,PPM
+maintenance wrap,MAINTENANCE,Maintenance Wrap (MY25 and prior)
+term protection plus,AFTERMARKET,TPP (mapped for pay plan consistency)
+tpp,AFTERMARKET,TPP (mapped for pay plan consistency)
