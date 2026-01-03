@@ -1,0 +1,9 @@
+benefit_id,category,benefit_name,details,limitations
+MW_TERM,Limits,Coverage Extension,Extends maintenance coverage beyond the complimentary period.,"Up to 8 years or 96,000 miles"
+MW_BASIC,Service,Basic Maintenance,"Covers oil changes, filters, tire rotations, and inspections.",Does not include 'Scheduled' items
+MW_SCHEDULED,Service,Scheduled Maintenance,"Adds air filters, fluids, spark plugs, and more.",Requires Scheduled Coverage Type
+MW_TECH,Service,Factory Technicians,Services performed by factory-trained Hyundai technicians.,Must comply with warranty standards
+MW_USAGE,Option,Usage Types,Coverage tailored for different driving conditions.,Normal or Severe options available
+MW_EXCL_MECH,Exclusion,Mechanical Repairs,Repairs for breakdowns even if near a covered service area.,Full exclusion
+MW_EXCL_TIME,Exclusion,Service Window,Services must be performed within a specific window.,Within 5k miles or 6 months of interval
+MW_EXCL_UPGRADE,Exclusion,Upgraded Products,Any extra-cost or upgraded parts used during service.,
