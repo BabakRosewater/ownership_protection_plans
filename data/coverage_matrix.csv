@@ -1,0 +1,9 @@
+benefit_id,category,benefit_name,details,limitations
+VSC_GEN_PARTS,Parts,Genuine Parts,Replacements use new, remanufactured, or Hyundai-approved parts.,"As per manufacturer standards [cite: 239]"
+VSC_ROADSIDE,Service,Roadside Assistance,Includes 24-hour towing and service.,"Up to 6 times per calendar year [cite: 240]"
+VSC_FUEL,Service,Fuel Delivery,Emergency fuel delivery to your location.,"Max 3 gallons; 2 times per year [cite: 240]"
+VSC_RENTAL,Financial,Rental Reimbursement,Rental car coverage during covered mechanical repairs.,"Excludes fuel and collision waivers [cite: 241]"
+VSC_TRIP,Financial,Trip Interruption,Reimbursement for expenses if breakdown occurs away from home.,"Not available to NY residents "
+VSC_TERM,Limits,Extended Term,Coverage for mechanical repairs, parts, and labor.,"Up to 10 years or 150,000 miles [cite: 219]"
+VSC_TECH,Component,High-Tech/Nav,Coverage for navigation and advanced electronics.,"Begins after 5y/60k factory warranty "
+VSC_PARTS_CNT,Limits,Part Count,Extensive component protection.,"Up to 1,500 covered vehicle parts [cite: 220]"
