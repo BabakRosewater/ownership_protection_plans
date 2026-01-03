@@ -1,6 +1,0 @@
-product_id,category_id,display_name,short_label,fni_bucket,counts_for_penetration,term_max_years,miles_max,eligibility_notes,source_notes
-VSC_PLAT,MECH,Vehicle Service Contract,Platinum,VSC,YES,10,150000,"Includes Navigation, Audio, and High Tech components [cite: 218, 244].","Covers up to 1,500 parts[cite: 220]."
-MAINT_WRAP,MAINT,Maintenance Wrap,Scheduled,MAINT,YES,8,96000,"Covers all scheduled maintenance items listed in owner's manual [cite: 260, 278].","Must be redeemed within 6 months or 5,000 miles of interval[cite: 294]."
-GAP_STD,LOSS,GAP Protection,Guaranteed Asset Protection,GAP,YES,,,"Waives some or all of the 'gap' between insurance pay and finance balance [cite: 4, 7].","Includes up to $1,000 deductible coverage[cite: 23, 36]."
-EWU_STD,DAMAGE,Excess Wear & Use,Lease-End Protection,LEASE,NO,,,"Waives up to $5,000 in excess wear-and-tear charges [cite: 61].","Includes up to 200 excess miles[cite: 69]."
-VSC_GOLD,MECH,Vehicle Service Contract,Gold,VSC,YES,10,150000,"Covers Climate Control, Shocks, Fuel System, and Electrical [cite: 218].","Enhanced factory limited warranty[cite: 219]."
