@@ -1,0 +1,12 @@
+component_name,powertrain,gold,platinum
+Engine,YES,YES,YES
+Transmission,YES,YES,YES
+Drive Axle,YES,YES,YES
+Climate Control,NO,YES,YES
+Shocks,NO,YES,YES
+Fuel System,NO,YES,YES
+Electrical System,NO,YES,YES
+Steering,NO,NO,YES
+Brakes,NO,NO,YES
+Navigation,NO,NO,YES
+High Tech,NO,NO,YES
