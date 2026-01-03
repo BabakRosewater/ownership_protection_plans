@@ -1,0 +1,9 @@
+benefit_id,category,benefit_name,details,limitations
+EWU_WAIVER,Financial,Wear & Tear Waiver,Waives covered lease-end wear charges.,"Up to $5,000 total"
+EWU_MILEAGE,Financial,Excess Mileage,Covers costs for additional miles driven.,Up to 200 miles; $.20 per mile
+EWU_EXTERIOR,Coverage,Exterior Damage,"Dents, scratches, and windshield chips.","Single-event max $1,000"
+EWU_INTERIOR,Coverage,Interior Stains,Spills and surface damage to the cabin.,"Single-event max $1,000"
+EWU_TIRES,Coverage,Tire Wear,Waiver for tires that meet return limits.,"Single-event max $1,000"
+EWU_KEYS,Coverage,Lost Keys,Coverage for replacement of vehicle keys.,"Single-event max $1,000"
+EWU_EXCL_INT,Exclusion,Intentional Acts,Charges caused by wrongful or intentional acts.,Full exclusion
+EWU_EXCL_PARTS,Exclusion,Missing Parts,Aggregate charges for missing vehicle parts.,
