@@ -1,0 +1,9 @@
+benefit_id,category,benefit_name,details,limitations
+GAP_WAIVER,Financial,Balance Waiver,"Waives the ""gap"" between insurance pay-out and loan balance.",Subject to program maximum limits
+GAP_DEDUCT,Financial,Deductible Coverage,Covers your primary insurance deductible.,"Up to $1,000; varies by state"
+GAP_TOTAL_LOSS,Coverage,Total Loss Protection,"Covers accidents, natural disasters, and theft.",Must be declared a total loss
+GAP_LIMITS,Limits,No Max Waiver,No specific maximum dollar amount on waived losses.,Excludes amounts over program limits
+GAP_EXCL_FEES,Exclusion,Financial Charges,"Late fees, past due payments, and unpaid charges.",Full exclusion
+GAP_EXCL_ACTS,Exclusion,Illegal Acts,"Losses from dishonest, fraudulent, or illegal acts (e.g. DUI).",Full exclusion
+GAP_EXCL_REF,Exclusion,Refinanced Loans,Coverage for refinanced original finance agreements.,Full exclusion
+GAP_EXCL_DED,Exclusion,Insurance Deductions,"Deductions for salvage, prior damage, or storage.",Full exclusion
